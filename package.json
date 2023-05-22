@@ -1,0 +1,14 @@
+{
+  "name": "mj-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js-selfbot-v13": "^2.14.1",
+    "proxy-agent": "5.0.0"
+  }
+}
